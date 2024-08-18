@@ -1,4 +1,4 @@
 # Hello Word!
- meu primeiro repositório versionado
+ meu primeiro repositório versionado no Github
 
-editor ruim, meu deus.
+Testando a edição do código via mobile 
